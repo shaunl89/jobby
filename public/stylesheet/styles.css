@@ -1,0 +1,10 @@
+.navbar {
+    border-radius: 0px;
+    background-color: #00258c;
+    color: #fff;
+    border-left: none;
+    border-right: none;
+}
+.navbar a{
+  color: #ffffff;
+}
